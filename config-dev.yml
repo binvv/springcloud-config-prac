@@ -1,2 +1,2 @@
 config:
- info: master,dev,dev_acc
+ info: master,dev,dev_acc,hello world
